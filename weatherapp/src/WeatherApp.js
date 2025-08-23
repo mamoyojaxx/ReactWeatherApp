@@ -57,7 +57,7 @@ export default function WeatherApp() {
         </a>{" "}
         and{" "}
         <a
-          href="https://fulllweatherappforecasts.netlify.app/"
+          href="https://reactweath.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
